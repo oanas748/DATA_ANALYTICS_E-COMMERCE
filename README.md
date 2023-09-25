@@ -50,7 +50,9 @@ The project determines the best-selling product based on sales quantity and visu
 ### 5. Visualization
 
 Data visualization plays a vital role in presenting the analysis results effectively. The project employs various visualization techniques, such as bar charts and line plots, to illustrate key findings. These visualizations simplify complex data and make it accessible to a wider audience.
-![Alt text](Dashboard 1.png)
+
+(https://github.com/oanas748/DATA_ANALYTICS_E-COMMERCE/issues/1#issue-1910806148)
+
 ### 6. Conclusion
 
 The concluding section provides a summary of the project's main findings and insights. It serves as a foundation for actionable recommendations to improve the e-commerce site's performance, marketing strategies, and overall user experience.
