@@ -50,8 +50,7 @@ The project determines the best-selling product based on sales quantity and visu
 ### 5. Visualization
 
 Data visualization plays a vital role in presenting the analysis results effectively. The project employs various visualization techniques, such as bar charts and line plots, to illustrate key findings. These visualizations simplify complex data and make it accessible to a wider audience.
-
-(https://github.com/oanas748/DATA_ANALYTICS_E-COMMERCE/issues/1#issue-1910806148)
+https://github.com/oanas748/DATA_ANALYTICS_E-COMMERCE/issues/1#issue-1910806148
 
 ### 6. Conclusion
 
